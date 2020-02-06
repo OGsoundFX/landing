@@ -1,0 +1,15 @@
+.cards-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  width: 900px;
+  margin: auto;
+}
+
+.cards-container img {
+  height: 120px;
+}
+
+.btn-hover:hover {
+  opacity: 0.5;
+}

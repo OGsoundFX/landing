@@ -1,0 +1,20 @@
+.banner {
+  background-size: 120%;
+  background-position: center;
+  padding: 20px 0 132px 0;
+}
+
+.banner p {
+    color: white;
+    opacity: .7;
+    font-size: 20px;
+}
+
+.btn-website {
+  text-decoration: none;
+  background-color: #ce6666;
+  padding: 10px;
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+}
